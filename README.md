@@ -95,12 +95,12 @@
 
 ## Технологии, используемые в проекте 🛠️
 
-- ![React + TypeScript](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) **React + TypeScript**
-- ![MobX](path_to_mobx_icon.png) **MobX**
-- ![FSD](path_to_fsd_icon.png) **Full Stack Development (FSD)**
-- ![Ant-Design](path_to_ant_design_icon.png) **Ant-Design**
-- ![Vite](path_to_vite_icon.png) **Vite**
-- ![CSS in JS](path_to_css_in_js_icon.png) **CSS in JS**
+![React + TypeScript](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) **React + TypeScript**
+![MobX](path_to_mobx_icon.png) **MobX**
+![FSD](path_to_fsd_icon.png) **Full Stack Development (FSD)**
+![Ant-Design](path_to_ant_design_icon.png) **Ant-Design**
+![Vite](path_to_vite_icon.png) **Vite**
+![CSS in JS](path_to_css_in_js_icon.png) **CSS in JS**
 
 
 ## Принципы и инструменты разработки
